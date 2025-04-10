@@ -12,7 +12,7 @@ This project implements a fraud detection system for SMS messages using a fine-t
 
 - Uses a pre-trained BERT model for text classification.  
 - Fine-tuned on an SMS spam detection dataset.  
-- Detects and classifies spam messages with high accuracy.  
+- Detects and classifies spam messages with high accuracy(97.14%).  
 - Implements data preprocessing and tokenization.  
 
 ## Installation
